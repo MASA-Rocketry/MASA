@@ -1,0 +1,107 @@
+newmtl mat_1_Nose cone
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_2_Body tube
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_3_Body tube
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_4_Body tube
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/spiral-wound-alpha.png
+newmtl mat_4_Body tube_F67W
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/aerotech.png
+newmtl mat_5_Centering ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/wood.jpg
+newmtl mat_6_Centering ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/wood.jpg
+newmtl mat_7_Fin set
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_8_Shock cord mount
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/wadding.png
+newmtl mat_9_Parachute
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/chute.jpg
+newmtl mat_10_SCK-12
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/wadding.png
+newmtl mat_11_Launch lug
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_12_Tube coupler
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/spiral-wound-alpha.png
+newmtl mat_13_Bulkhead
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off /Users/deanhibbs/Desktop/Masa Goodness/YPAT2_img/wood.jpg
